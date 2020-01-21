@@ -1,14 +1,18 @@
 {
-    "name": "nicklasos/laravel-admin-media-library",
+    "name": "mikelmi/laravel-admin-media-library",
     "description": "Media-library extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "media-library", "media"],
-    "homepage": "https://github.com/nicklasos/laravel-admin-media-library",
+    "homepage": "https://github.com/mikelmi/laravel-admin-media-library",
     "license": "MIT",
     "authors": [
         {
             "name": "Nicklasos",
             "email": "nicklasos@gmail.com"
+        },
+        {
+            "name": "Mike Lmi",
+            "email": "mikelmi84@gmail.com"
         }
     ],
     "require": {
@@ -21,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Nicklasos\\LaravelAdmin\\MediaLibrary\\": "src/"
+            "Mikelmi\\LaravelAdmin\\MediaLibrary\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nicklasos\\LaravelAdmin\\MediaLibrary\\MediaLibraryServiceProvider"
+                "Mikelmi\\LaravelAdmin\\MediaLibrary\\MediaLibraryServiceProvider"
             ]
 
         }

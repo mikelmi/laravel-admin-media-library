@@ -1,9 +1,9 @@
 <?php
 
-namespace Nicklasos\LaravelAdmin\MediaLibrary;
+namespace Mikelmi\LaravelAdmin\MediaLibrary;
 
-use App\Admin\Services\MediaLibrary\MediaLibraryFile;
-use App\Admin\Services\MediaLibrary\MediaLibraryMultipleFile;
+use Mikelmi\LaravelAdmin\MediaLibrary\MediaLibraryFile;
+use Mikelmi\LaravelAdmin\MediaLibrary\MediaLibraryMultipleFile;
 use Encore\Admin\Extension;
 use Encore\Admin\Form;
 

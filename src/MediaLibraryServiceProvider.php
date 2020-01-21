@@ -1,6 +1,6 @@
 <?php
 
-namespace Nicklasos\LaravelAdmin\MediaLibrary;
+namespace Mikelmi\LaravelAdmin\MediaLibrary;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -4,7 +4,7 @@ Spatie Media-Library extension for Laravel-Admin
 ### Install
 
 ```
-composer require nicklasos/laravel-admin-media-library
+composer require mikelmi/laravel-admin-media-library
 ```
 
 ### Usage
